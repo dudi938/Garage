@@ -1,0 +1,7 @@
+C:\Users\buildmachine\Desktop\garage\CalcPriceService\CalcPriceService\bin\CalcPriceService.dll.config
+C:\Users\buildmachine\Desktop\garage\CalcPriceService\CalcPriceService\bin\CalcPriceService.dll
+C:\Users\buildmachine\Desktop\garage\CalcPriceService\CalcPriceService\bin\CalcPriceService.pdb
+C:\Users\buildmachine\Desktop\garage\CalcPriceService\CalcPriceService\obj\Debug\CalcPriceService.csprojResolveAssemblyReference.cache
+C:\Users\buildmachine\Desktop\garage\CalcPriceService\CalcPriceService\obj\Debug\CalcPriceService.csproj.CoreCompileInputs.cache
+C:\Users\buildmachine\Desktop\garage\CalcPriceService\CalcPriceService\obj\Debug\CalcPriceService.dll
+C:\Users\buildmachine\Desktop\garage\CalcPriceService\CalcPriceService\obj\Debug\CalcPriceService.pdb
